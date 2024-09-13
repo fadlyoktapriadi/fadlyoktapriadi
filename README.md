@@ -20,7 +20,7 @@
 </p>
  
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadlyoktapriadi&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="thenuka" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadlyoktapriadi&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="fadlyoktapriadi" />
 </p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=fadlyoktapriadi&show_icons=true&locale=en&theme=chartreuse-dark" alt="fadlyoktapriadi" width="410"/>
 </p>
