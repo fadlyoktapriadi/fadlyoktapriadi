@@ -25,7 +25,7 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=fadlyoktapriadi&show_icons=true&locale=en&theme=chartreuse-dark" alt="fadlyoktapriadi" width="410"/>
 </p>
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 ## Technologies currently using
 
