@@ -3,7 +3,7 @@
  
 ### Hi there 👋 I am Fadly Oktapriadi 
 
-> I am a hardworking individual who is dedicated towards his goals.
+> Coding and Sleep
 <br />
 
 - 🌱 &nbsp;I'm currently studying for Informatics and like Seblak Antusiast
@@ -13,7 +13,7 @@
 - 💬 Ask me about: anything, I am happy to help
 - 	<img src="https://komarev.com/ghpvc/?username=fadlyoktapriadi&label=Profile%20views&color=brightgreen&style=plastic" alt="fadlyoktapriadi's profile views" /> 
 	<a href="https://github.com/fadlyoktapriadi?tab=followers"><img src="https://img.shields.io/github/followers/fadlyoktapriadi?label=Followers&style=social" alt="GitHub Badge"></a>
-<br><br><br><br>
+<br><br>
 
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
@@ -25,10 +25,9 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=fadlyoktapriadi&show_icons=true&locale=en&theme=chartreuse-dark" alt="fadlyoktapriadi" width="410"/>
 </p>
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 ## Technologies currently using
-
 
 <div>
   <img  alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
