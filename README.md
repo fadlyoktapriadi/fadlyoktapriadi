@@ -69,5 +69,3 @@
 [linkedin]: https://www.linkedin.com/in/fadly-oktapriadi 
 
 ------
-Credit: [fadlyoktapriadi](https://github.com/fadlyoktapriadi)
-12/01/2023
