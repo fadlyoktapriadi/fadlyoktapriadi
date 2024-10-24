@@ -6,7 +6,7 @@
 > Coding and Sleep
 <br />
 
-- 🌱 &nbsp;I'm currently studying for Informatics and like Seblak Antusiast
+- 🌱 &nbsp;I'm currently studying for Informatics
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - 📫 How to reach me **fadlyoktapriadi41@gmail.com**
 - 📝 I studied at Banten Jaya University
